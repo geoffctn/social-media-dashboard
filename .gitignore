@@ -1,5 +1,5 @@
-dist/
 .cache/
+.git/
 
 # Logs
 logs
